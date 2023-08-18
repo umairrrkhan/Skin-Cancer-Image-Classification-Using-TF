@@ -1,6 +1,6 @@
 # Skin Cancer Image Classification Project 
 
-This repository contains code for a skin cancer image classification project, which aims to classify skin lesion images into different categories of skin cancer. The project utilizes various Python libraries for data manipulation, visualization, machine learning model creation, and evaluation. The dataset used for this project is the **hmnist_28_28_L.csv** file.
+This repository contains code for a skin cancer image classification project, which aims to classify skin lesion images into different categories of skin cancer. The project utilizes various Python libraries for data manipulation, visualization, machine learning model creation, and evaluation. The dataset used for this project is the **hmnist_28_28_L.csv** file. [Dataset](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1)
 
 ## Table of Contents
 
